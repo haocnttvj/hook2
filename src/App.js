@@ -1,9 +1,9 @@
-import Calculator from "./Caculator";
+import Clock from "./Clock";
 
 function App() {
   return (
     <div className="App">
-      <Calculator />
+      <Clock />
     </div>
   );
 }
